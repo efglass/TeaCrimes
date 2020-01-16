@@ -1,0 +1,82 @@
+/* Antonio Bold */
+
+@font-face {
+    font-family: 'Antonio';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Antonio'), local('Antonio-Bold'), url('Antonio/Antonio-Bold.ttf') format('truetype'), url('Antonio/Antonio-Bold.woff') format('woff');
+}
+
+/* Antonio Light */
+
+@font-face {
+    font-family: 'Antonio';
+    font-style: normal;
+    font-weight: 200;
+    src: local('Antonio Light'), local('Antonio-Light'), url('Antonio/Antonio-Light.ttf') format('truetype'), url('Antonio/Antonio-Light.woff') format('woff');
+}
+
+/* Antonio Regular */
+
+@font-face {
+    font-family: 'Antonio';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Antonio'), local('Antonio-Regular'), url('Antonio/Antonio-Regular.ttf') format('truetype'), url('Antonio/Antonio-Regular.woff') format('woff');
+}
+
+/* Stardos Stencil BOLD */
+
+@font-face {
+    font-family: 'Stardos Stencil';
+    src: url('stardos-stencil/StardosStencil-Bold.eot') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stardos Stencil';
+    src: local('Stardos Stencil'), url('stardos-stencil/StardosStencil-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Gandhi Regular */
+@font-face {
+    font-family: 'Gandhi Serif';
+    src: url('gandhi-serif/GandhiSerif-Regular-webfont.eot');
+    src: url('gandhi-serif/GandhiSerif-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('gandhi-serif/GandhiSerif-Regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Gandhi Italic */
+@font-face {
+    font-family: 'Gandhi Serif';
+    src: url('gandhi-serif/GandhiSerif-Italic-webfont.eot');
+    src: url('gandhi-serif/GandhiSerif-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+    url('gandhi-serif/GandhiSerif-Italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+/* Gandhi Bold */
+@font-face {
+    font-family: 'Gandhi Serif';
+    src: url('gandhi-serif/GandhiSerif-Bold-webfont.eot');
+    src: url('gandhi-serif/GandhiSerif-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+    url('gandhi-serif/GandhiSerif-Bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+/* Gandhi Bold-Italic */
+@font-face {
+    font-family: 'Gandhi Serif';
+    src: url('gandhi-serif/GandhiSerif-BoldItalic-webfont.eot');
+    src: url('gandhi-serif/GandhiSerif-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+    url('gandhi-serif/GandhiSerif-BoldItalic-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
